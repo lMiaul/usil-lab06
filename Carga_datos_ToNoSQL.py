@@ -7,7 +7,7 @@ load_dotenv()
 
 # COMMAND ----------
 
-# os.getenv("MONGODB_CONNECTION_STRING")
+os.getenv("MONGODB_CONNECTION_STRING")
 
 # COMMAND ----------
 
